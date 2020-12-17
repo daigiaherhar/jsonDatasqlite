@@ -1,9 +1,11 @@
-{"movies":[
-  {"name": "Tom", "age": 10 },
-  {"name": "Franz", "age": 12 },
-  {"name": "Chris Calip", "age": 36 },
-  {"name": "Maria", "age": 30 },
-  {"name": "Fred", "age": 50 },
-  {"name": "R Stallman", "age": 60 }
-]
+{
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
+    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
+    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
+    { "id": "4", "title": "Inception", "releaseYear": "2010" },
+    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
+  ]
 }
